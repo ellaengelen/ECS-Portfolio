@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-margin: 0 auto;
+margin: 0 auto; font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
 background: #124D5C;
@@ -42,4 +42,13 @@ float: left;
 width: 100%;
 height: 50px;
 text-align: center;
+}
+a:link {
+     color: #F3F3FF;
+}
+a:visited {
+     color: #D591D1;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
