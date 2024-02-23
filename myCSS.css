@@ -47,10 +47,10 @@ color: white;
 text-align: center;
 }
 a:link {
-     color: light blue;
+     color: #3C678F;
 }
 a:visited {
-     color: light blue;
+     color: #3C678F;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
