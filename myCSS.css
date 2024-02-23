@@ -47,10 +47,10 @@ color: white;
 text-align: center;
 }
 a:link {
-     color: white;
+     color: light blue;
 }
 a:visited {
-     color: white;
+     color: light blue;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
